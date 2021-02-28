@@ -1,0 +1,15 @@
+.login-form{
+    margin: auto;
+    box-shadow: -1px 8px 19px -6px;
+    margin-top: 20px;
+    padding: 20px;
+}
+.login-form p{
+    text-align: center;
+    font-size: 27px;
+    font-weight: 600;
+    background: #343a40;
+    color: #fff;
+    padding: 4px 0px;
+    border-radius: 2px;
+}
