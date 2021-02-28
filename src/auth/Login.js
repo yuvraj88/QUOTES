@@ -5,7 +5,7 @@ function Login(props) {
     return (
         <>
             <div className="col-md-4 login-form">
-                <p>Login</p>
+                <p>Login Form</p>
                 <Form>
                     <Form.Group controlId="formBasicEmail">
                         <Form.Label>Email address</Form.Label>
